@@ -1,0 +1,58 @@
+/* partners styling */
+@keyframes marquee {
+  0% {
+    left: 0;
+  }
+  100% {
+    left: -150%;
+  }
+}
+.animate {
+  width: 300%;
+  animation: marquee 20s linear infinite;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+.animate:hover {
+  animation-play-state: paused;
+}
+/* embla carousel for  login and signup screen styling  */
+
+/* .embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+}
+.embla__slide {
+  flex: 0 0 100%;
+  min-width: 0;
+} */
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 242, 244, 234, 1;
+    --background-start-rgb: 242, 244, 234, 1;
+    --background-end-rgb: 242, 244, 234, 1;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
