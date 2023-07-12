@@ -4,12 +4,13 @@ import { getAuth,GoogleAuthProvider,GithubAuthProvider } from "firebase/auth";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA5Ml4LYUaBbEaZr7z86_Rcj7JQspR8wIo",
-  authDomain: "carefinder-app-db.firebaseapp.com",
-  projectId: "carefinder-app-db",
-  storageBucket: "carefinder-app-db.appspot.com",
-  messagingSenderId: "180800749901",
-  appId: "1:180800749901:web:9406d634aec5f054663704"
+  apiKey: "AIzaSyBNIpm-CbdFLNaRmgOJ2y4Xr6daA_AxiWY",
+  authDomain: "carefinder-app-924d3.firebaseapp.com",
+  projectId: "carefinder-app-924d3",
+  storageBucket: "carefinder-app-924d3.appspot.com",
+  messagingSenderId: "544447624403",
+  appId: "1:544447624403:web:c0f039b5c69c24b5925026",
+  measurementId: "G-3ZL2EP086Q"
 };
 
 // Initialize Firebase

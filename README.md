@@ -53,4 +53,3 @@ Vercel was used to deploy the app.
 The MIT License - Copyright (c) 2023 - Present, rasheed-olatunde altschool capstone project/  Storage Service.
 
 # Author
-Rasheed Olatunde (Frontend AltSchooler)
