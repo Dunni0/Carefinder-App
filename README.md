@@ -1,7 +1,7 @@
 # AltSchool Frontend Capstone Project
 
 Hi There! 🙋‍♀️ \
-This is my capstone project submission - Carefinder app.
+This is my capstone project submission - Carefinder app. \
 Carefinder allows users to search for hospitals within their region. Users can input their location or select from a list of nearby cities to find hospitals in their area. The platform will provide a list of hospitals and their respective contact details, including address, phone number, and email.
 
 
@@ -51,7 +51,7 @@ Netlify was used to deploy the app.
 ```
 
 # License
-The MIT License - Copyright (c) 2023 - Present, rasheed-olatunde altschool capstone project/  Storage Service.
+The MIT License - Copyright (c) 2023 - Present, Awonuga Oluwapelumi altschool capstone project/  Storage Service.
 
 # Author
 Awonuga Oluwapelumi
